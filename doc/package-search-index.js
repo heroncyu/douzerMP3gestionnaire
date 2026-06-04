@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"projetS3.cli"},{"l":"projetS3.core.audio"},{"l":"projetS3.core.playlist"},{"l":"projetS3.core.scan"},{"l":"projetS3.exporter"},{"l":"projetS3.gui"},{"l":"projetS3.importer"}];updateSearchResults();
