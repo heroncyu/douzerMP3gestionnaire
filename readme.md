@@ -6,12 +6,6 @@
 EL HAJAM Ayoub
 HERON Sajid
 
-# Groupe de TD : C
-# Numéro d'équipe : C10 
-
-### La Répartition des tâches :
-Consulter le diagramme de GANTT et le rapport de projet pour plus de détails sur la répartition du travail au sein du binôme.
-
 # Prérequis :
 Java SE 21 
 Bibliothèque externe : mp3agic (incluse dans le dossier lib/)
